@@ -10,4 +10,4 @@ and then run the program with
 
     $ jsx --run hello.jsx
 
-Any question: hit me up at @bengrunfeld
+Any question: hit me up at [@bengrunfeld](https://twitter.com/bengrunfeld)
